@@ -20,3 +20,22 @@ GitHub Guide
 Apart from the basic knowledge of Git & GitHub, you don't really need to have any other skill to get started.
 
 You can contribute with whatever skills you currently have. No need to learn something new (although it's always good to learn new stuff)...
+Below are some of the different ways in which you can contribute:
+
+Code - The most obvious way to contribute to a project is coding. However, you don't have to be a professional programmer or Mr Robot to help open source community.
+Design - You can also help by designing or redesigning project assets like landing pages, UI or illustrations. Possibilities are endless here!
+Review - You can also help by checking the project code & can suggest better ways of implementing the same logic or help the owner to find & fix bugs in the project.
+Documentation - One of the easiest yet important way of contributing to a project is to add documentation to the project or help improve the current documentation.
+How to get started?
+Here are detailed step by step instructions:
+
+Step 1 - Register yourself for Hacktoberfest
+Registration is pretty simple!
+
+Go to official Hacktoberfest website
+Click on Start Hacking & sign in with your GitHub account
+That's it! You are now officially registered for Hacktoberfest 2020!
+Step 2 - Find repositories to make contributions
+Now next step is to find a repository of your choice which matches your skill set, it could be any repository on GitHub labelled as hacktoberfest.
+
+You can find the label on the right-hand section of repository page under About section. If the hacktoberfest label is not present, it means that any contributions you make to this particular repository will not be counted for Hacktoberfest 2020.
