@@ -28,7 +28,30 @@ Review - You can also help by checking the project code & can suggest better way
 Documentation - One of the easiest yet important way of contributing to a project is to add documentation to the project or help improve the current documentation.
 How to get started?
 Here are detailed step by step instructions:
+Here are some of the repositories I recommend to beginners:
 
+TesseractCoding/NeoAlgo
+surajsrv11/JavaScript
+api-platform/api-platform
+Step 3 - Start Hacking/Contributing
+Now once you have found the repositories you want to contribute into. It's now time to actually start hacking(contributing).
+
+Here are few points, you should keep in mind:
+
+Throughout the month of October, you have to make at least 4 valid pull requests in any repository on GitHub which is labelled hacktoberfest as previously mentioned.
+The pull requests you have made will have to go through a review process of 14 Days. You can check the status of your pull requests from here.
+Within that 14 Day review process, the repository owner will have a chance to see & evaluate your pull requests, if everything goes well & all 4 of your pull requests got accepted then after 14 days you will receive an email from Hacktoberfest organizers to claim your prize.
+In case, any of your pull requests wasn't accepted, you can try again to make more valid pull requests to different repositories before the end of Hacktoberfest 2020 (i.e. before October 30).
+I recommend you to make as many contributions as you can on multiple repositories, as this will increase the number of pull requests you have made & eventually your chances of completing Hacktoberfest 2020 challenge will increase as well!
+Congratulations! You are now all set to participate in Hacktoberfest 2020!
+
+Join our Telegram group which we have specially created to help beginners with Hacktoberfest 2020!
+
+If you have any questions, feel free to ask in comments, I'll be there to help & guide you throughout your Hacktoberfest journey.
+
+Thank you so much for reading! I hope I have covered everything required for you to get started with Hacktoberfest & win that awesome limited edition Hacktoberfest t-shirt. I will keep this blog post updated with the latest updates & news about Hacktoberfest. Feel free to give your feedback & constructive criticism in the comments section.
+
+Stay Safe, everyone!
 Step 1 - Register yourself for Hacktoberfest
 Registration is pretty simple!
 
